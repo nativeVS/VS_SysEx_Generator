@@ -4,7 +4,7 @@ I apologise for this being utterly low quality, however it does the job well for
   
 
 Windows (x64) version can be found [here](https://github.com/nativeVS/VS_SysEx_Generator/raw/main/VS_SysEx_Generator_CommandLine/x64/Release/VS_SysEx_Generator_CommandLine.exe).  
-Mac version can be found [here](https://github.com/nativeVS/VS_SysEx_Generator/raw/main/VS_SysEx_Generator_CommandLine/x64/Release/VS_SysEx_Generator_CommandLine).
+Mac version can be found [here](https://github.com/nativeVS/VS_SysEx_Generator/raw/main/VS_SysEx_Generator_CommandLine/x64/Release/VS_SysEx_Generator_CommandLine.zip).
   
 Main directory is currently just a straight dump from the VisualStudio Project directory. Should compile fine cross-platform with C++17.
   
