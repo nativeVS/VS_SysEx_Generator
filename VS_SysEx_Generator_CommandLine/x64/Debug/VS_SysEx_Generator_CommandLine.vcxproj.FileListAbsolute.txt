@@ -1,0 +1,2 @@
+C:\Users\Robert\source\repos\VS_SysEx_Generator_CommandLine\x64\Debug\VS_SysEx_Generator_CommandLine.exe
+C:\Users\Robert\source\repos\VS_SysEx_Generator_CommandLine\x64\Debug\VS_SysEx_Generator_CommandLine.pdb
