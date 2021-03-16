@@ -9,3 +9,5 @@ Mac version can be found [here](https://github.com/nativeVS/VS_SysEx_Generator/r
 Main directory is currently just a straight dump from the VisualStudio Project directory. Should compile fine cross-platform with C++17.
   
 Mac version was just quickly created by copying into XCode and dumping a quick build into the Release folder.
+  
+nativeVS - 2021
